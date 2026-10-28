@@ -1,3 +1,2 @@
-# projeto-git
-
-Olá, nesse projeto você aprenderá alguns comandos do Git
+Olá, esse projeto ensina vocè a usar o git.
+Isso é uma alteração.
